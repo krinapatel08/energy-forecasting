@@ -2,9 +2,16 @@
 
 This project predicts hourly energy consumption based on historical data using XGBoost.
 
-## 📌 Dataset
-- Source: [UCI Individual household electric power consumption](https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption)
-- Fields used: `Global_active_power`, timestamp, lag features, etc.
+## 📂 Dataset
+
+Due to GitHub’s file size limit, the dataset is not uploaded here.
+
+Please manually download the dataset from this source:
+
+[UCI Power Consumption Dataset](https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption)
+
+Once downloaded, place it as:
+
 
 ## 📈 ML Workflow
 - Data parsed into hourly aggregates
